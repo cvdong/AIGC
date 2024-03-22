@@ -1,2 +1,2 @@
-# SD_dong
+# Stable-Diffusion
 stable diffusion Note :alien:
