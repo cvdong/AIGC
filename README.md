@@ -1,7 +1,5 @@
-# AIGC (Artificial Intelligence Generated Content) 
+# AIGC (Artificial Intelligence Generated Content)
 
-**简明 AIGC 知识梳理**
+**简明 AIGC 教程**
 
-### 1. Aigc 脉络及重要节点
-
-
+## DDPM
