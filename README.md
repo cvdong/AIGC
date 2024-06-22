@@ -28,19 +28,18 @@
 
 ### 第十二步：OneFlow
 
-### 第十三步：LLM
+### 第十三步：Triton
 
-### 第十四步：T2V
+### 第十四步：LLM
 
-### 第十五步：Other(hunyuanDit/IP-Adapter/Omost/flash-diffusion)
+### 第十五步：HunyuanDit
 
-### 第十六步：Project
+### 第十六步：T2V
 
+### 第十七步：Other(IP-Adapter/Omost/flash-diffusion)
 
-。。
+### 第十八步：Project
 
-
-![chameleon](./workspace/images/chameleon-dong-4.jpg)
 
 ![chameleon](./workspace/images/chameleon-dong-8.jpg)
 
