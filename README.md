@@ -28,19 +28,29 @@
 
 ### 第十二步：OneDiff
 
-### 第十三步：Triton
+### 第十三步：StreamDiffusion
 
 ### 第十四步：LLM
 
-### 第十五步：HunyuanDit
+### 第十五步: MLLM
 
-### 第十六步：T2V
+### 第十六步: VLLM
 
-### 第十七步：Other(IP-Adapter/Omost/flash-diffusion)
+### 第十七步：TRT-LLM
 
-### 第十八步：Project
+### 第十八步：TritonServer
+
+### 第十九步：HunyuanDit
+
+### 第二十步：T2V
+
+### 第二十一步：K8s
+
+### 第二十二步：Other(IP-Adapter/Omost/flash-diffusion)
+
+### 第二十三步：Project
 
 
-![chameleon](./workspace/images/chameleon-dong-8.jpg)
+![chameleon](./workspace/images/chameleon-dong-3.jpg)
 
 ####  参考资料
