@@ -46,7 +46,7 @@
 
 ### 第二十一步：K8s
 
-### 第二十二步：Other(IP-Adapter/Omost/flash-diffusion)
+### 第二十二步：Other(IP-Adapter/Omost/flash-diffusion/xdit/flux)
 
 ### 第二十三步：Project
 
